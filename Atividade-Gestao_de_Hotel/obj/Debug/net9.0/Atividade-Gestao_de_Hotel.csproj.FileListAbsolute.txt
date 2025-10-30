@@ -1,0 +1,14 @@
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\bin\Debug\net9.0\Atividade-Gestao_de_Hotel.exe
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\bin\Debug\net9.0\Atividade-Gestao_de_Hotel.deps.json
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\bin\Debug\net9.0\Atividade-Gestao_de_Hotel.runtimeconfig.json
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\bin\Debug\net9.0\Atividade-Gestao_de_Hotel.dll
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\bin\Debug\net9.0\Atividade-Gestao_de_Hotel.pdb
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.AssemblyInfoInputs.cache
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.AssemblyInfo.cs
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.dll
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\refint\Atividade-Gestao_de_Hotel.dll
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.pdb
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\Atividade-Gestao_de_Hotel.genruntimeconfig.cache
+C:\Users\47014999869\Desktop\Atividade-Gestao_de_Hotel\obj\Debug\net9.0\ref\Atividade-Gestao_de_Hotel.dll
