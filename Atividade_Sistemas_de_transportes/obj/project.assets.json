@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47014999869\\Desktop\\Atividade-Sistema-de-Transportes\\Parte1–Classe-Normal-e-Heranca\\Parte1–Classe-Normal-e-Heranca.csproj",
-      "projectName": "Parte1–Classe-Normal-e-Heranca",
-      "projectPath": "C:\\Users\\47014999869\\Desktop\\Atividade-Sistema-de-Transportes\\Parte1–Classe-Normal-e-Heranca\\Parte1–Classe-Normal-e-Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\47014999869\\Desktop\\Atividades_POO_CSHARP_Classes\\Atividade_Sistemas_de_transportes\\Atividade_Sistemas_de_transportes.csproj",
+      "projectName": "Atividade_Sistemas_de_transportes",
+      "projectPath": "C:\\Users\\47014999869\\Desktop\\Atividades_POO_CSHARP_Classes\\Atividade_Sistemas_de_transportes\\Atividade_Sistemas_de_transportes.csproj",
       "packagesPath": "C:\\Users\\47014999869\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47014999869\\Desktop\\Atividade-Sistema-de-Transportes\\Parte1–Classe-Normal-e-Heranca\\obj\\",
+      "outputPath": "C:\\Users\\47014999869\\Desktop\\Atividades_POO_CSHARP_Classes\\Atividade_Sistemas_de_transportes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\47014999869\\AppData\\Roaming\\NuGet\\NuGet.Config"

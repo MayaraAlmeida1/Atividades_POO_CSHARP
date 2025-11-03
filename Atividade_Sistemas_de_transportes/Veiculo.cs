@@ -1,5 +1,5 @@
 
-namespace Parte1_Classe_Normal_e_Heranca
+namespace Atividade_Sistemas_de_transportes
 {
     public class Veiculo
     {
@@ -22,11 +22,10 @@ namespace Parte1_Classe_Normal_e_Heranca
             Console.WriteLine($"O veículo {Modelo} está ligadp!");
         }
 
-        public virtual void ExibirDetalhes()
+        public virtual string ExibirDetalhes()
         {
-            Console.WriteLine($"Marca: {Marca}");
-            Console.WriteLine($"Modelo: {Modelo}");
-            Console.WriteLine($"Ano: {Ano}");
+            return
+                $">>> DETALHES DO VEÍCULO: <<<\nMarca: {Marca} \nModelo: {Modelo} \nAno: {Ano}";
         }
     }
 }

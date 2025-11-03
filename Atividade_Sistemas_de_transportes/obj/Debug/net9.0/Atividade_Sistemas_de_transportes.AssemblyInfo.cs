@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Parte1–Classe-Normal-e-Heranca")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Atividade_Sistemas_de_transportes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64269b55fa74ae04da53b533f773c4f1cdd381a3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Parte1–Classe-Normal-e-Heranca")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Parte1–Classe-Normal-e-Heranca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fdf96ed580c7d85dc189cdac2df29e8333015e8")]
+[assembly: System.Reflection.AssemblyProductAttribute("Atividade_Sistemas_de_transportes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Atividade_Sistemas_de_transportes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

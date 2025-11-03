@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Atividade_Sistemas_de_transportes/1.0.0": {
+        "runtime": {
+          "Atividade_Sistemas_de_transportes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade_Sistemas_de_transportes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

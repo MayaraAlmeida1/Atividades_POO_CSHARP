@@ -1,5 +1,5 @@
 
-namespace Parte1_Classe_Normal_e_Heranca
+namespace Atividade_Sistemas_de_transportes
 {
     public class Carro : Veiculo
     {
@@ -18,6 +18,12 @@ namespace Parte1_Classe_Normal_e_Heranca
         //* SOBSCREVER MÉTODO
         public override void Ligar(){
             Console.WriteLine($"O carro {Modelo} está pronto para rodar!");
+        }
+
+        public override string ExibirDetalhes()
+        {
+            return
+                $">>> DETALHES DO VEÍCULO: <<<\nMarca: {Marca} \nModelo: {Modelo} \nAno: {Ano} \nQuantidade de portas: {quantidadePortas}";
         }
     }
 }
