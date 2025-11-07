@@ -17,13 +17,17 @@ namespace Atividade_Sistemas_de_transportes
 
         //* SOBSCREVER MÉTODO
         public override void Ligar(){
-            Console.WriteLine($"A moto {Modelo} de {Cilindrada}cc está pronta!");
+            Console.WriteLine($"\nA moto {Modelo} de {Cilindrada}cc está pronta!");
         }
 
-         public override string ExibirDetalhes()
+         public override void ExibirDetalhes()
         {
-            return
-                $">>> DETALHES DO VEÍCULO: <<<\nMarca: {Marca} \nModelo: {Modelo} \nAno: {Ano} \nCilindrada: {Cilindrada}cc";
+            Console.WriteLine($">> DETALHES DO VEÍCULO <<");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Ano: {Ano}");
+            Console.WriteLine($"Cilindrada: {Cilindrada}cc");
+
         }
     }
 }

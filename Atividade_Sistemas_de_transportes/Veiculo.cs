@@ -19,13 +19,15 @@ namespace Atividade_Sistemas_de_transportes
         //* MÉTODOS
         public virtual void Ligar()
         {
-            Console.WriteLine($"O veículo {Modelo} está ligadp!");
+            Console.WriteLine($"O veículo {Modelo} está ligado!");
         }
 
-        public virtual string ExibirDetalhes()
+        public virtual void ExibirDetalhes()
         {
-            return
-                $">>> DETALHES DO VEÍCULO: <<<\nMarca: {Marca} \nModelo: {Modelo} \nAno: {Ano}";
+            Console.WriteLine($">> DETALHES DO VEÍCULO <<");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Ano: {Ano}");
         }
     }
 }

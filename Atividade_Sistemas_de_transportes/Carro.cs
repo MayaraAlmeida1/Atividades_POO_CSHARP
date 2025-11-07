@@ -20,10 +20,13 @@ namespace Atividade_Sistemas_de_transportes
             Console.WriteLine($"O carro {Modelo} está pronto para rodar!");
         }
 
-        public override string ExibirDetalhes()
+        public override void ExibirDetalhes()
         {
-            return
-                $">>> DETALHES DO VEÍCULO: <<<\nMarca: {Marca} \nModelo: {Modelo} \nAno: {Ano} \nQuantidade de portas: {quantidadePortas}";
+           Console.WriteLine($">> DETALHES DO VEÍCULO <<");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Ano: {Ano}");
+            Console.WriteLine($"Quartidade de portas: {quantidadePortas}");
         }
     }
 }
