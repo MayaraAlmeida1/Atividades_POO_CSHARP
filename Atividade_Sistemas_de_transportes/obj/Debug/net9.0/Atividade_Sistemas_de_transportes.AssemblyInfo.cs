@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade_Sistemas_de_transportes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886198ae4013fe74ea2696db166ef4af2354d11d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e884be710d7f4711b6ad0c4da102edbe0a2b1441")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade_Sistemas_de_transportes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade_Sistemas_de_transportes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
